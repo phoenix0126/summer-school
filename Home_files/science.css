@@ -1,0 +1,53 @@
+.faq-show-more {
+
+}
+
+.faq-show-more .c-red-link:after {
+  border-color: #b71c1c transparent transparent;
+  
+}
+
+.learning-s3-intro-description {
+  font-weight: bold;
+}
+
+.tutor-intro-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.tutor-intro-card__main {
+  width: 50%;
+}
+
+.tutor-intro-card-reverse .tutor-intro-card__main{
+  margin-left: 27px;
+}
+
+.tutor-intro-card__name {
+  font-size: 30px;
+  line-height: 1.2;
+}
+
+.tutor-intro-card__text {
+  font-family: Century;
+  font-size: 28px;
+  color: #010506;
+  line-height: 15px;
+  margin-top: 20px;
+}
+
+.o-tutors-grid {
+  padding: 15px;
+}
+
+.approach-content-type2__title {
+  font-size: 27px;
+  font-weight: 400;
+}
+
+.m-cd-group__title-sm {
+  font-size: 14px;
+}
